@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--generator='jetpack-8.8.2'-->
-<?xml-stylesheet type="text/xsl" href="//fleek.co/sitemap-index.xsl"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https://fleek.co/sitemap-1.xml</loc><lastmod>2020-08-25T21:32:47Z</lastmod></sitemap><sitemap><loc>https://fleek.co/image-sitemap-1.xml</loc><lastmod>2020-08-25T17:57:54Z</lastmod></sitemap><sitemap><loc>https://fleek.co/video-sitemap-1.xml</loc><lastmod>2020-05-28T17:02:13Z</lastmod></sitemap></sitemapindex>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+​
+  <url>
+    <loc>https://fleek.co/</loc>
+    <lastmod>2020-04-08T18:00:00+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://fleek.co/pricing/</loc>
+    <lastmod>2020-04-08T18:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://app.fleek.co/</loc>
+    <lastmod>2020-04-08T18:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
