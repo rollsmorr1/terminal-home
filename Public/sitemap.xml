@@ -5,20 +5,60 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 ​
-  <url>
-    <loc>https://fleek.co/</loc>
-    <lastmod>2020-04-08T18:00:00+00:00</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://fleek.co/pricing/</loc>
-    <lastmod>2020-04-08T18:00:00+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://app.fleek.co/</loc>
-    <lastmod>2020-04-08T18:00:00+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
+<url>
+  <loc>https://fleek.co/</loc>
+  <lastmod>2020-12-17T15:54:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://fleek.co/hosting/</loc>
+  <lastmod>2020-12-17T17:51:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleek.co/storage/</loc>
+  <lastmod>2020-12-17T16:10:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleek.co/ipfs-gateway/</loc>
+  <lastmod>2020-12-17T18:39:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleek.co/space-daemon/</loc>
+  <lastmod>2020-12-17T15:54:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleek.co/ens-domains/</loc>
+  <lastmod>2020-12-17T15:55:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleek.co/pricing/</loc>
+  <lastmod>2020-12-17T18:32:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.fleek.co/</loc>
+  <lastmod>2020-12-17T18:32:27+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://docs.fleek.co/</loc>
+  <lastmod>2020-12-17T18:32:27+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://fleek.co/terms-of-service/</loc>
+  <lastmod>2020-12-17T18:32:27+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://fleek.co/privacy-policy/</loc>
+  <lastmod>2020-12-17T18:32:27+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
 
 </urlset>
