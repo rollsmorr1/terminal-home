@@ -31,6 +31,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://fleek.co/space-sdk/</loc>
+  <lastmod>2020-12-17T15:54:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://fleek.co/ens-domains/</loc>
   <lastmod>2020-12-17T15:55:11+00:00</lastmod>
   <priority>0.80</priority>
@@ -57,6 +62,11 @@
 </url>
 <url>
   <loc>https://fleek.co/privacy-policy/</loc>
+  <lastmod>2020-12-17T18:32:27+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://fleek.co/about/</loc>
   <lastmod>2020-12-17T18:32:27+00:00</lastmod>
   <priority>0.60</priority>
 </url>
